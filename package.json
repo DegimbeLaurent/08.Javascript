@@ -1,0 +1,11 @@
+{
+  "name": "@becode/js-intro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "api": "npx json-server ./_shared/api.json"
+  },
+  "dependencies": {
+    "password-hash": "^1.2.2"
+  }
+}

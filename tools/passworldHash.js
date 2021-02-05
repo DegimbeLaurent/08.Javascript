@@ -1,0 +1,1 @@
+export const passworldHash = require('password-hash');
